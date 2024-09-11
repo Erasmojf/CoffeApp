@@ -39,7 +39,7 @@ class OrderViewModel {
     }
     
     var coffeName: String {
-        return self.order.coffeName
+        return self.order.coffeeName
     }
     
     var total: Double {

@@ -16,6 +16,7 @@
 		F39EC0EE2C8A297100C2050A /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39EC0ED2C8A297100C2050A /* Webservice.swift */; };
 		F39EC0F02C8A2CD400C2050A /* OrderListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39EC0EF2C8A2CD400C2050A /* OrderListViewModel.swift */; };
 		F39EC0F22C8A30E900C2050A /* OrderListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39EC0F12C8A30E900C2050A /* OrderListView.swift */; };
+		F3ED646A2C92117000DA1BF9 /* CreateOrderResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3ED64692C92117000DA1BF9 /* CreateOrderResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		F39EC0ED2C8A297100C2050A /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
 		F39EC0EF2C8A2CD400C2050A /* OrderListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListViewModel.swift; sourceTree = "<group>"; };
 		F39EC0F12C8A30E900C2050A /* OrderListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListView.swift; sourceTree = "<group>"; };
+		F3ED64692C92117000DA1BF9 /* CreateOrderResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateOrderResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			children = (
 				F39EC0E92C8A282700C2050A /* Coffee.swift */,
 				F39EC0EB2C8A290400C2050A /* Order.swift */,
+				F3ED64692C92117000DA1BF9 /* CreateOrderResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				F39EC0DA2C8A24F700C2050A /* ContentView.swift in Sources */,
 				F39EC0D82C8A24F700C2050A /* PedidodeCafeApp.swift in Sources */,
 				F39EC0EC2C8A290500C2050A /* Order.swift in Sources */,
+				F3ED646A2C92117000DA1BF9 /* CreateOrderResponse.swift in Sources */,
 				F39EC0F22C8A30E900C2050A /* OrderListView.swift in Sources */,
 				F39EC0F02C8A2CD400C2050A /* OrderListViewModel.swift in Sources */,
 				F39EC0EE2C8A297100C2050A /* Webservice.swift in Sources */,
